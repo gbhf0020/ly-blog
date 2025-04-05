@@ -1,0 +1,10 @@
+menu:
+  友链: /friends || fas fa-link
+
+links:
+  - links_category: "默认分类"  # 必须用 links_category
+    items:                     # 必须用 items 包裹
+      - name: "Hexo 官网"
+        url: "https://hexo.io"
+        avatar: "/images/hexo-logo.png"  # 图片需放在 source/images/
+        description: "静态博客框架"
