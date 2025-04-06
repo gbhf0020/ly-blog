@@ -100,4 +100,7 @@ theme: redefine
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/gbhf0020/ly-blog.git 
+  branch: gh-pages
+  message: Site updated:2025-04-06 00:00:00
